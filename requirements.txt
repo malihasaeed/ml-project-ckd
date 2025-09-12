@@ -61,7 +61,7 @@ nest-asyncio==1.6.0
 numpy==2.2.0
 overrides==7.7.0
 packaging==23.2
-pandas==2.3.3
+pandas==2.3.2
 pandocfilters==1.5.1
 parso==0.8.5
 pillow==10.4.0
