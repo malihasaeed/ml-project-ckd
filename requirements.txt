@@ -124,7 +124,7 @@ webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.14
 pandas==2.1.1
-pywin32
+pywin32==304
 pywinpty==3.0.0
 
 
