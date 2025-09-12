@@ -58,10 +58,10 @@ mistune==3.1.4
 narwhals==2.5.0
 nbformat==5.10.4
 nest-asyncio==1.6.0
-numpy==1.26.2
+numpy==2.8.2
 overrides==7.7.0
 packaging==23.2
-pandas==2.1.1
+pandas==2.3.3
 pandocfilters==1.5.1
 parso==0.8.5
 pillow==10.4.0
@@ -78,7 +78,6 @@ Pygments==2.19.2
 python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
 pytz==2025.2
-pywin32
 pywinpty==3.0.0
 PyYAML==6.0.2
 pyzmq==27.1.0
