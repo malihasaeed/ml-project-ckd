@@ -71,12 +71,7 @@ notebook==7.4.5
 notebook_shim==0.2.4
 numpy==2.3.3
 overrides==7.7.0
-<<<<<<< HEAD
 packaging>=22,<24
-=======
-packaging==25.0
-pandas==2.3.2
->>>>>>> fcfd7143dff3ff79a0c195934e607351f15ca5f8
 pandocfilters==1.5.1
 parso==0.8.5
 pillow==11.3.0
