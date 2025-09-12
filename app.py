@@ -107,3 +107,4 @@ if st.button("Predict CKD"):
     else:
         st.success(f"✅ The patient is predicted NOT to have CKD.\nPrediction probability: {prediction_proba}")
 
+
